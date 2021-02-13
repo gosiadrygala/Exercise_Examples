@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adapter_Example/Adapter_Example.iml" filepath="$PROJECT_DIR$/Adapter_Example/Adapter_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam_13.01.2021.iml" filepath="$PROJECT_DIR$/Exam_13.01.2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyweight_Example/Flyweight_Example.iml" filepath="$PROJECT_DIR$/Flyweight_Example/Flyweight_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUnit_Example/JUnit_Example.iml" filepath="$PROJECT_DIR$/JUnit_Example/JUnit_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVVM_Example/MVVM_Example.iml" filepath="$PROJECT_DIR$/MVVM_Example/MVVM_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer_Pattern_Example/Observer_Pattern_Example.iml" filepath="$PROJECT_DIR$/Observer_Pattern_Example/Observer_Pattern_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Producer_Consumer_Example/Producer_Consumer_Example.iml" filepath="$PROJECT_DIR$/Producer_Consumer_Example/Producer_Consumer_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy_Example/Proxy_Example.iml" filepath="$PROJECT_DIR$/Proxy_Example/Proxy_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RMI_Example/RMI_Example.iml" filepath="$PROJECT_DIR$/RMI_Example/RMI_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Readers_Writers_Example/Readers_Writers_Example.iml" filepath="$PROJECT_DIR$/Readers_Writers_Example/Readers_Writers_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton_Example/Singleton_Example.iml" filepath="$PROJECT_DIR$/Singleton_Example/Singleton_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Socket_Example/Socket_Example.iml" filepath="$PROJECT_DIR$/Socket_Example/Socket_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State_Pattern_Example/State_Pattern_Example.iml" filepath="$PROJECT_DIR$/State_Pattern_Example/State_Pattern_Example.iml" />
+    </modules>
+  </component>
+</project>
